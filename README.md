@@ -142,7 +142,7 @@ Smart-Solar-Tracking-System/
 
 ## Team Members
 
-* Mani Sharan Raj Mengani, B.tech ECE
+* Mani Sharan Raj Mengani
 * Rishitha Vallika Pulaparthi
 * Larshitha Borra
 
