@@ -12,7 +12,7 @@ The system integrates embedded systems, control logic, automation, and renewable
 
 ---
 
-## Features
+## 🚀 Features
 
 * Automatic sunlight tracking
 * Arduino-based embedded control
@@ -20,11 +20,13 @@ The system integrates embedded systems, control logic, automation, and renewable
 * Real-time sensor data visualization
 * Servo motor based panel alignment
 * Stable tracking using filtering and threshold control
-* Low-cost and practical implementation
+* Cost-effective practical implementation
+* Efficient sunlight alignment
+* Embedded automation workflow
 
 ---
 
-## Components Used
+## 🔧 Components Used
 
 * Arduino UNO
 * LDR Sensors
@@ -35,7 +37,7 @@ The system integrates embedded systems, control logic, automation, and renewable
 
 ---
 
-## Working Principle
+## ⚙️ Working Principle
 
 1. LDR sensors detect sunlight intensity from different directions.
 2. Arduino reads the sensor values.
@@ -81,7 +83,7 @@ The system demonstrated stable operation, smooth panel movement, and improved su
 
 ---
 
-## Results
+## 📊 Results
 
 The tracking solar panel generated better voltage output compared to a fixed solar panel, particularly during morning and evening hours.
 
@@ -130,7 +132,7 @@ Smart-Solar-Tracking-System/
 
 ---
 
-## Future Scope
+## 🔮 Future Scope
 
 * Dual-axis solar tracking
 * IoT-based monitoring
@@ -140,10 +142,10 @@ Smart-Solar-Tracking-System/
 
 ---
 
-## Team Members
+## 👨‍💻 Team Members
 
-* Mani Sharan Raj Mengani
 * Rishitha Vallika Pulaparthi
+* Mani Sharan Raj Mengani
 * Larshitha Borra
 
 ---
